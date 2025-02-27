@@ -13,8 +13,7 @@ public class PracticeController {
 
     @GetMapping("/hello")
     public String sayHello() {
-
-        return "Hello World hi";
+        return "Hello my World";
     }
 
 
